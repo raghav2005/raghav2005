@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghav2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="121" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="121" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raghav2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="123" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="123" alt="languages graph" />
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=raghav2005&theme=github_dark_blue" alt="GitHub Streak" height="121" />
+    <img src="https://streak-stats.demolab.com/?user=raghav2005&theme=github_dark_blue" alt="GitHub Streak" height="123" />
   </a>
 </div>
 
