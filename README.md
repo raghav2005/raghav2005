@@ -47,13 +47,22 @@ Here are some ideas to get you started:
 
 ### About Me:
 
+- 🔭 I’m currently a **2nd-year student at UCL studying MEng Computer Science**.
+- 🌱 I’m currently learning **Pentesting and Operating Systems**.
+- 👯 I’m looking to collaborate on **any open-source projects**.
+- 💬 Ask me about **bash/zsh/linux administration, automations, AI/ML, or full-stack development**.
+- 📫 How to reach me: **raghavawasthi2005@gmail.com**.
+
 -----
 
 ### Blog Posts:
 
+- <a></a>
+
 -----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raghavawasthi2005" target="blank"><img align="center" src="" alt="raghavawasthi2005" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/raghavawasthi2005"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=25px/></a>
+  <a href="https://orcid.org/0009-0006-9065-7672"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCiD Badge" height=25px/></a>
+  <a href="https://instagram.com/raghav_a.z/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height=25px /></a>
+</div>
