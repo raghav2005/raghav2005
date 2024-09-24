@@ -1,19 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Raghav 👋
 
-<!--
-**raghav2005/raghav2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" style="margin-bottom: 0;">
+  <a href="https://www.linkedin.com/in/raghavawasthi2005"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=25px/></a>
+  <a href="https://orcid.org/0009-0006-9065-7672"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCiD Badge" height=25px/></a>
+  <a href="https://instagram.com/raghav_a.z/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height=25px /></a>
+</div>
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me:
+
+- 🔭 I’m currently a **2nd-year student at UCL studying MEng Computer Science**.
+- 🌱 I’m currently learning **Pentesting and Operating Systems**.
+- 👯 I’m looking to collaborate on **any open-source projects**.
+- 💬 Ask me about **bash/zsh/linux administration, automations, AI/ML, or full-stack development**.
+- 📫 How to reach me: **raghavawasthi2005@gmail.com**.
+
+-----
+
+### Languages and Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,apple,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,eclipse,emacs,express,fastapi,figma,firebase,flask,git,github,githubactions,go,gradle,haskell,html,java,js,jquery,kali,latex,linux,md,maven,mint,mysql,nextjs,nodejs,npm,opencv,postgres,postman,pycharm,py,pytorch,raspberrypi,react,redis,regex,rust,sqlite,sublime,supabase,sklearn,selenium,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,webstorm,windows&perline=20" />
+  </a>
+</p>
 
 -----
 
@@ -35,34 +46,6 @@ Here are some ideas to get you started:
 
 -----
 
-### Languages and Tools:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,apple,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,eclipse,emacs,express,fastapi,figma,firebase,flask,git,github,githubactions,go,gradle,haskell,html,java,js,jquery,kali,latex,linux,md,maven,mint,mysql,nextjs,nodejs,npm,opencv,postgres,postman,pycharm,py,pytorch,raspberrypi,react,redis,regex,rust,sqlite,sublime,supabase,sklearn,selenium,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,webstorm,windows&perline=20" />
-  </a>
-</p>
-
------
-
-### About Me:
-
-- 🔭 I’m currently a **2nd-year student at UCL studying MEng Computer Science**.
-- 🌱 I’m currently learning **Pentesting and Operating Systems**.
-- 👯 I’m looking to collaborate on **any open-source projects**.
-- 💬 Ask me about **bash/zsh/linux administration, automations, AI/ML, or full-stack development**.
-- 📫 How to reach me: **raghavawasthi2005@gmail.com**.
-
------
-
 ### Blog Posts:
 
-- <a></a>
-
------
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/raghavawasthi2005"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=25px/></a>
-  <a href="https://orcid.org/0009-0006-9065-7672"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCiD Badge" height=25px/></a>
-  <a href="https://instagram.com/raghav_a.z/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height=25px /></a>
-</div>
+- <a href="https://ucldevs.hashnode.dev/vscode-to-emacs-the-beginning-why">VSCode to Emacs - the Beginning: Why?</a>
