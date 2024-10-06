@@ -3,7 +3,7 @@
 <div id="badges" style="margin-bottom: 0;">
   <a href="https://www.linkedin.com/in/raghavawasthi2005"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height=25px/></a>
   <a href="https://orcid.org/0009-0006-9065-7672"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCiD Badge" height=25px/></a>
-  <a href="https://instagram.com/raghav_a.z/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height=25px /></a>
+  <!-- <a href="https://instagram.com/raghav_a.z/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height=25px /></a> -->
 </div>
 
 -----
