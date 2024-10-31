@@ -22,7 +22,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,apple,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,eclipse,emacs,express,fastapi,figma,firebase,flask,git,github,githubactions,go,gradle,haskell,html,java,js,jquery,kali,latex,linux,md,maven,mint,mysql,nextjs,nodejs,npm,opencv,postgres,postman,pycharm,py,pytorch,raspberrypi,react,redis,regex,rust,sqlite,sublime,supabase,sklearn,selenium,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,webstorm,windows&perline=20" />
+    <!-- REDUCED VERSION -->
+    <img src="https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,css,docker,dotnet,emacs,express,fastapi,flask,git,go,haskell,html,java,js,kali,latex,linux,md,mysql,nextjs,nodejs,opencv,postgres,py,pytorch,raspberrypi,react,redis,regex,rust,selenium,tensorflow,ts,ubuntu,vim&perline=20" />
+    <!-- FULL VERSION -->
+    <!-- <img src="https://skillicons.dev/icons?i=anaconda,apple,arduino,bash,bootstrap,c,cs,cpp,css,docker,dotnet,eclipse,emacs,express,fastapi,figma,firebase,flask,git,github,githubactions,go,gradle,haskell,html,java,js,jquery,kali,latex,linux,md,maven,mint,mysql,nextjs,nodejs,npm,opencv,postgres,postman,pycharm,py,pytorch,raspberrypi,react,redis,regex,rust,sqlite,sublime,supabase,sklearn,selenium,tailwind,tensorflow,ts,ubuntu,vercel,vim,vscode,webstorm,windows&perline=20" /> -->
   </a>
 </p>
 
