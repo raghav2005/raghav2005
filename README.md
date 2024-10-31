@@ -10,7 +10,7 @@
 
 ### About Me:
 
-- 🔭 I’m currently a **2nd-year student at UCL studying MEng Computer Science**.
+- 🔭 I’m currently a **2nd-year student at UCL studying BSc Computer Science**.
 - 🌱 I’m currently learning **Pentesting and Operating Systems**.
 - 👯 I’m looking to collaborate on **any open-source projects**.
 - 💬 Ask me about **bash/zsh/linux administration, automations, AI/ML, or full-stack development**.
