@@ -41,11 +41,11 @@
   </a>
 </div>
 
-<br />
+<!--<br />
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav2005&theme=darkhub" alt="raghav2005" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav2005&theme=darkhub" alt="raghav2005" /></a></p>-->
 
-[![An image of @raghav2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghav2005)](https://holopin.io/@raghav2005)
+<!--[![An image of @raghav2005's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raghav2005)](https://holopin.io/@raghav2005)-->
 
 -----
 
