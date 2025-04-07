@@ -39,3 +39,4 @@
 ### Blog Posts:
 
 - <a href="https://ucldevs.hashnode.dev/vscode-to-emacs-the-beginning-why">VSCode to Emacs - the Beginning: Why?</a>
+- <a href="https://qpg.hashnode.dev/">IBM+UCL - Quantum Proximity Gateway Blogs</a>
